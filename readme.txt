@@ -1,0 +1,1 @@
+This file created after long time when i already submit my project and journal. so, this file is not well decorated . Some python file are not exist here . Because , as limited gpu i was run my python file lot of google drive and colab . 
